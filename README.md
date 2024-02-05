@@ -12,6 +12,9 @@ Uma bricadeira para testar a interface do LLM da OpenAI, acessando a base de dad
 que faz uma previsão para a tendência da criptomoeda mais conhecida com base no histórico de uma semana de 
 variação, usando a API da OpenAI para gerar um texto coerente.
 
+*Nota:* `A análise baseada em uma semana não fornece qualquer precisão em um mercado financeiro, porém por se
+tratar de um teste estamos usando uma API de acesso gratuito, e uma semana é o máximo que o modelo suporta.`
+
 - **Cook Pal**:
 Um assistente na sua cozinha para dar dicas e sugestões para aproveitar os ingredientes disponíveis na sua
 geladeira, escolhendo categorias como refeições, sobremesas, jantares e salgadinhos e depois refinando com os estilos culinários como
